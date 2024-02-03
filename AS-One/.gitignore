@@ -1,0 +1,16 @@
+.env/
+**__pycache__**
+*.onnx
+*.pt
+*.pth
+*.mlmodel
+**byte_track_results**
+**deep_sort_results**
+**nor_fair_results**
+build/
+dist/
+asone.egg-info/
+test_custom_tracker.py
+custom_weights.py
+data/results/
+temp/

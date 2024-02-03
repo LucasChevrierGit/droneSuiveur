@@ -1,0 +1,10 @@
+datasets/
+python/mnist_data/
+python/results/
+python/train1_weights/
+yolov5/runs/
+yolov5/.cometml-runs/
+tok
+*.zip
+*.pt
+*.pyc
